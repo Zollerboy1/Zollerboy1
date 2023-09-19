@@ -2,7 +2,7 @@
 
 My name is Josef.
 
-Currently I'm studying Computer Science at ETH Zürich in Switzerland.
+Currently I'm studying Computer Science at ETH Zürich in Switzerland. As part of my studies, I'm doing an exchange semester at University of Toronto right now.
 
 I'm interested in programming and computer science since several years now and mostly I just do random projects (and never really finish them) whenever there is something new I wanna try out.
 
