@@ -6,7 +6,7 @@ Currently I'm studying Computer Science at ETH Zürich in Switzerland. As part o
 
 I'm interested in programming and computer science since several years now and mostly I just do random projects (and never really finish them) whenever there is something new I wanna try out.
 
-My proudest project so far, although it's still extremely far from reaching a working version 1.0, is the [*juice* programming language](juicelang.org), written in C++. If you want to collaborate, you're more than welcome to.
+My proudest project so far, although it's still extremely far from reaching a working version 1.0, is the [*juice* programming language](https://juicelang.org), written in C++. If you want to collaborate, you're more than welcome to.
 
 Until *juice* is finally usable, the best programming language existing is definitely and undeniably Swift.
 
